@@ -33,6 +33,6 @@ If you like this plugin, consider to make a donation to the author:
 
 
 ## Screenshots
-![Main menu](https://raw.githubusercontent.com/goggle/plugin.audio.srfplayradio/master/resources/screenshot-01.png)
-![A list menu](https://raw.githubusercontent.com/goggle/plugin.audio.srfplayradio/master/resources/screenshot-02.png)
-![Episode information](https://raw.githubusercontent.com/goggle/plugin.audio.srfplayradio/master/resources/screenshot-03.png)
+![Main menu](https://raw.githubusercontent.com/goggle/plugin.audio.rtsplayradio/master/resources/screenshot-01.png)
+![A list menu](https://raw.githubusercontent.com/goggle/plugin.audio.rtsplayradio/master/resources/screenshot-02.png)
+![Episode information](https://raw.githubusercontent.com/goggle/plugin.audio.rtsplayradio/master/resources/screenshot-03.png)
