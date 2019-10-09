@@ -11,7 +11,8 @@ Bring the full power of the [RTS Play Radio media library](https://www.rts.ch/pl
  - [x] Overview over all the shows.
  - [x] List shows by topic.
  - [x] Manage a list of your favourite SRF shows and get a list of your recently aired favourite shows.
- - [x] Browse the content (shows, newest audios, most listened) of specific channels. 
+ - [x] Browse the content (shows, newest audios, most listened) of specific channels.
+ - [x] Search audios and shows.
  - [x] Live Radio.
 
 ## Installation
